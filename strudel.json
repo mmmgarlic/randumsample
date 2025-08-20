@@ -9,6 +9,7 @@
   "clap_dreamer": ["samples/clap (dreamer).wav"],
   "clap_taxi": ["samples/clap (taxi).wav"],
   "clap_rollwithme": ["samples/clap 1 (roll with me).wav"],
+  "crashcrash": ["samples/crashcrash.wav"],
   "cymbal_porsche": ["samples/cymbal (porsche).wav"],
   "hat_drugs": ["samples/hat (drugs).wav"],
   "hat_lipgloss": ["samples/hat (lipgloss).wav"],
