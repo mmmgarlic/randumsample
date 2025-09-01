@@ -34,5 +34,14 @@
   "whirr": "samples/whirr.wav",
   "bladee01": "samples/01.wav",
   "applebybladeerev01": "samples/applebybladeerev01.wav",
-  "glass3": "samples/glass3.wav"
+  "glass3": "samples/glass3.wav",
+  "kick_goodgirls": "samples/kick%20%28good%20girls%29.wav",
+  "kick_queenlizzy": "samples/kick%20%28queen%20lizzy%29.wav",
+  "kick1_trophy": "samples/kick%201%20%28trophy%29.wav",
+  "kick1_vroomvroom": "samples/kick%201%20%28vroom%20vroom%29.wav",
+  "kick2_afterparty": "samples/kick%202%20%28afterparty%29.wav",
+  "kick2_taxi": "samples/kick%202%20%28taxi%29.wav",
+  "kick3_afterparty": "samples/kick%203%20%28afterparty%29.wav",
+  "stomp_afterparty": "samples/stomp%20%28afterparty%29.wav",
+  "stomp_noangel": "samples/stomp%20%28no%20angel%29.wav"
 }
